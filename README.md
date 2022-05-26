@@ -14,7 +14,7 @@ I imagine this as your first step in your path to learn more about how all life 
 
 1. Watch the class video here: [https://youtu.be/s7K2g9V2vTc](https://youtu.be/s7K2g9V2vTc)
 2. Run the Tutorial on the Jupyter Notebook that you can find in this repository. 
-   - Click on the jupyter notebook
+   - Click on the [jupyter notebook](https://github.com/fatipardo/SBioSCIP2022/blob/main/SCIP2022_SBio_NGLview.ipynb) 
    - Click on the 'run in colab' button
    - Login to your gmail account and run the code!
    - Enjoy your structures!
