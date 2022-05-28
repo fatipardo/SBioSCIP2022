@@ -19,7 +19,7 @@ I imagine this as your first step in your path to learn more about how all life 
    - Login to your gmail account and run the code!
    - Enjoy your structures!
 
-3. In this repo you can find the answers to the questions from the first jupyter notebook. You can find them in the 'Answers' folder. 
+3. In this repo you can find the answers to the questions from the first jupyter notebook. You can find them in the ['Answers' jupyter notebook](https://github.com/fatipardo/SBioSCIP2022/blob/main/SCIP2022_ANSWERS.ipynb). 
 
 
 ## What if you have questions? 
